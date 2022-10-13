@@ -1,14 +1,13 @@
 # Shotkallar715_playlist
 
 ## Overview
-This challenge originated from Frontend Mentor. I wanted to challenge myself to use Reactjs to make a landing page exactly like their final product.
+This challenge originated from Hacktoberfest 2022 and I wanted to challenge myself to create a music playlist for a local artist.
 
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size (mobile or desktop)
-- See hover and focus states for interactive elements
+- Forward, skip to a certain verse in the song, or refer back to the previous songs.
 
 ### Screenshot
 Desktop view:
