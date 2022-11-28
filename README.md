@@ -90,7 +90,7 @@ function setUpdate() {
 
 ## Status
 
-I would like to add repeat, volume, random, and add the artist's information. 
+I would like to add repeat, volume, and random button, along with the artist's social media information. 
 
 ## Inspiration
 
