@@ -47,7 +47,7 @@ To render this project on your computer:
 $open index.html
 
 ## Code Example
-##JavaScript (ES6)
+## JavaScript (ES6)
 
 ```js
 function setUpdate() {
