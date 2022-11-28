@@ -85,7 +85,11 @@ function setUpdate() {
 }
 ```
 
-1. Calculate song duration and current time to display on the screen.
+## Features
+
+* Front end user interface utilizing Javascript, HTML, and CSS. 
+* Users can fast forward, reverse and pause the song
+* Users are able to start and stop a song at a specific time duration
 
 
 ## Status
